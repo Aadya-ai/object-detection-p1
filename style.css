@@ -1,0 +1,29 @@
+body 
+{
+background-size: cover;
+background-position: center;
+}
+
+.heading
+{
+font-size: 30px;
+width: 100%;
+margin: 0px;
+}
+
+#i
+{
+font-size: 20px;
+margin-left: 30px;
+margin-top: 20px;
+margin-right: 30px;
+margin-bottom: 20px;
+padding: 30px;
+border-radius: 30px;
+}
+
+canvas 
+{
+border-radius: 30px;
+box-shadow: 5px 5px 5px solid lightpink;
+}
